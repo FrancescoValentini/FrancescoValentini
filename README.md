@@ -41,7 +41,7 @@
     <li>Tecnico del suono (amatoriale)</li>
     <li>Montaggio video (di base)</li>
     <li>Sistemi mainframe (amatoriale, MVS TK4-, VM/370)</li>
-    <li>Sistemi crittografici (Crittografia simmetrica e asimmetrica, firme digitali, token di sicurezza, moduli di sicurezza hardware (HSM)...)</li>
+    <li>Crittografia (Crittografia simmetrica e asimmetrica, firme digitali, token di sicurezza, moduli di sicurezza hardware (HSM)...)</li>
   </ul>
 </p>
 
