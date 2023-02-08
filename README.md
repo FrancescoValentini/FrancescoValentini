@@ -9,6 +9,7 @@
   <h3 align="left">Formazione:</h3>
   <ul>
     <li>I. T. I. S. "Enrico Mattei" di Recanati (Diplomato con voto 100/100)</li>
+    <li>ECDL (European Computer Driving Licence)</li>
     <li>38° posto alle Olimpiadi Nazionali della CyberSecurity (2021)</li>
     <li>UNICAM Informatica (In corso)</li>
   </ul>
@@ -36,7 +37,7 @@
   <h3 align="left">Altre competenze:</h3>
   <ul>
     <li>Networking (reti cablate e wireless, reti di telefonia mobile e fissa...)</li>
-    <li>Basi di Radiantismo (non sono radioamatore)</li>
+    <li>Basi di Radiantismo e comunicazioni via radio (non sono radioamatore)</li>
     <li>Elettronica ed elettrotecnica di base</li>
     <li>Tecnico del suono (amatoriale)</li>
     <li>Montaggio video (di base)</li>
