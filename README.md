@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Francesco Valentini</h1>
-<h3 align="center">Studente UNICAM primo anno di Informatica</h3>
+<h3 align="center">Studente UNICAM, Informatica</h3>
 <h4 align="center">5/03/2003</h4>
 <p>
   <h3 align="left">Formazione:</h3>
